@@ -6,7 +6,7 @@ const $cells = [...document.querySelectorAll('.field-cell')];
 
 // New elements
 const img = document.createElement('img');
-img.src = '/images/goblin.png';
+img.src = './images/goblin.png';
 img.alt = 'satan';
 
 // Generate random start cell
