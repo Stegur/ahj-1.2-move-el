@@ -1,4 +1,5 @@
 import getRandom from './utils';
+import '../img/goblin.png';
 
 // DOM Elements
 const $cells = [...document.querySelectorAll('.field-cell')];
